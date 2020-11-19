@@ -1,0 +1,6 @@
+Create Repo
+clone Repo
+create file
+add file 
+commit file/downloading
+push/uploading
